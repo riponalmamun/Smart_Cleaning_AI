@@ -1,6 +1,7 @@
 # 🧹 Smart Cleaning AI
 
 An intelligent cleaning service platform powered by AI, built with FastAPI and LangChain. This system provides automated cleaning professional matching, intelligent scheduling, dynamic pricing, and AI-powered customer support.
+<img width="1905" height="909" alt="image" src="https://github.com/user-attachments/assets/b269b630-1316-4d44-8862-76dff50c330f" />
 
 ## ✨ Features
 
